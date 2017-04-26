@@ -1,6 +1,6 @@
 # npmdoc-node-normalize-scss
 
-#### api documentation for  [node-normalize-scss (v1.4.0)](https://github.com/ranjandatta/node-normalize-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-normalize-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-normalize-scss)
+#### basic api documentation for  [node-normalize-scss (v1.4.0)](https://github.com/ranjandatta/node-normalize-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-normalize-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-normalize-scss)
 
 #### Normalize.css as an npm packaged, libsass module with no changes
 
@@ -59,7 +59,8 @@
         "url": "git://github.com/ranjandatta/node-normalize-scss.git"
     },
     "scripts": {},
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
